@@ -1,0 +1,2 @@
+# Star-Cluster-Data-Analysis-from-Gaia-Mission-HR-Diagram-Plotting
+Repository contains Python code designed to retrieve, analyze, and visualize data from the Gaia space mission for star clusters, specifically through the creation of Hertzsprung-Russell (HR) diagrams. The goal is to study the properties and evolutionary stages of stars within these clusters by analyzing their color-magnitude relationships
